@@ -76,8 +76,59 @@ ul{
 }
 
 li{
-    display: block;
+    margin: 10px 0;
 }
 
+.spunta{
+    width: 20px;
+    height: 15px;
+    border-radius: 50%;
+    font-size: 10px;
+    margin-right: 10px;
+    margin-left: 5px;
+    text-align: center;
+}
+
+.si{
+    border: 1px solid #2DC6AB;
+    color: #2DC6AB;
+}
+
+.no{
+    border: 1px solid #FF1010;
+    color: #FF1010;
+}
+
+.et{
+    color: white;
+    font-size: 10px;
+    padding: 6px 8px;
+    border-radius: 10px;
+
+}
+
+.blu{
+    background-color: #09A9ED;
+}
+
+.viola{
+    background-color: #AB5DE6;
+}
+
+.verde{
+    background-color: #2CC6AB;
+}
+
+.rosso{
+    background-color: #EC4A9D;
+}
+
+.orange{
+    background-color: #FF9B00;
+}
+
+.giallo{
+    background-color: #A3D116;
+}
 
 
