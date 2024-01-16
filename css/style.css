@@ -80,12 +80,11 @@ li{
 }
 
 .spunta{
-    width: 20px;
-    height: 15px;
     border-radius: 50%;
     font-size: 10px;
     margin-right: 10px;
     margin-left: 5px;
+    padding: 5px;
     text-align: center;
 }
 
