@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #F6F8F9;
+}
+
+header{
+    height: 70px;
+    background-color: white;
+    padding-top: 10px;
+    margin-bottom: 40px;
+}
+
+.logo{
+    vertical-align: middle;
+    padding-left: 20px;
+}
+
+.titolo{
+    display: inline;
+    vertical-align: middle;
+    font-weight: bold;
+    font-size: 38px;
+}
+
+
