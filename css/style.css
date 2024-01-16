@@ -28,4 +28,41 @@ header{
     font-size: 38px;
 }
 
+.contenitore{
+    background-color: white;
+    margin: auto;
+    height: 582px;
+    width: 786px;
+    border-radius: 6px;
+}
+
+.pulsanti{
+    padding: 14px 0 8px 50px;
+}
+
+button{
+    border-radius: 6px;
+    padding: 6px 10px;
+    font-size: 12px;
+    border: 1px solid;
+}
+
+#task{
+    color: white;
+    border-color: #14AAF5;
+    background-color: #14AAF5
+}
+
+#section{
+    color: #C4CBD0;
+    border-color: #C4CBD0;
+    background-color: white;
+}
+
+hr{
+    border: 2px solid #F6F8F9;
+}
+
+
+
 
