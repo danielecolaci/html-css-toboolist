@@ -28,6 +28,8 @@ header{
     font-size: 38px;
 }
 
+/* main */
+
 .contenitore{
     background-color: white;
     margin: auto;
@@ -63,6 +65,19 @@ hr{
     border: 2px solid #F6F8F9;
 }
 
+/* lista */
+
+.lista{
+    margin: 35px 50px;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: block;
+}
 
 
 
